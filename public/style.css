@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: xx-large;
+}
+
+
+div#song-name {
+    text-align: center;
+}
+
+div#album-name {
+    text-align: center;
+}
+
+div#artist-name {
+    text-align: center;
+}
+
+img#my-Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+div#loved{
+    text-align: center;
+    margin-top: 30mm;
+}
+div#playcount {
+    margin-top:50mm;
+    text-align: center;
+}
+
